@@ -8,7 +8,7 @@ Details on the methodologies used to compute these upper bounds are available he
 
 ## Usage
 
-Download the app.R and function_tight_upper_bound.R files and place them on the same directory. Then, open the app.R file and run it on Rstudio and follow these steps:
+Download the ``app.R`` and ``function_tight_upper_bound.R`` files and place them on the same directory. Then, open the app.R file and run it on Rstudio and follow these steps:
 
 ### Step 1:
 
